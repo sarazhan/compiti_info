@@ -1,3 +1,4 @@
+# esercizio dalla scheda: calcolare a scelta area di un quadrato, rettangolo, triangolo e cerchio
 Forma = input("Scrivi il poligono (in minuscolo) di cui desideri calcolare l'area: ")
 if Forma == "cerchio":
     raggio = int(input("Inserisci il raggio: "))
