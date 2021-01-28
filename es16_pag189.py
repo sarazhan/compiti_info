@@ -1,3 +1,7 @@
+'''
+Consegna 28/01/21: riferimento a es 15 pag 189, crea dizionario chiave = nazione e valore = capitale. 
+Poi visualizza la capitale di una nazione fornita dalla tastiera o un messaggio di errore.
+'''
 def geografia():
     diz = {}
     controllo = int(input("Quante nazioni vuoi inserire? "))
